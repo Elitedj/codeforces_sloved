@@ -7,10 +7,15 @@
 !_TAG_PROGRAM_VERSION	0.0.0	/45968ef/
 A	Edu80/README.md	/^### A$/;"	S
 A	Round604/README.md	/^### A$/;"	S
+A	Round605/README.md	/^### A$/;"	S
 B	Edu80/README.md	/^### B$/;"	S
 B	Round604/README.md	/^### B$/;"	S
+B	Round605/README.md	/^### B$/;"	S
 C	Edu80/README.md	/^### C$/;"	S
 C	Round604/README.md	/^### C$/;"	S
+C	Round605/README.md	/^### C$/;"	S
+D	Round604/README.md	/^### D$/;"	S
+D	Round605/README.md	/^### D$/;"	S
 INF	Edu80/a.cpp	/^const ll INF = 0x3f3f3f3f3f3f3f3f;$/;"	v	typeref:typename:const ll
 INF	Edu80/b.cpp	/^const ll INF = 0x3f3f3f3f3f3f3f3f;$/;"	v	typeref:typename:const ll
 INF	Edu80/c.cpp	/^const ll INF = 0x3f3f3f3f3f3f3f3f;$/;"	v	typeref:typename:const ll
@@ -18,6 +23,10 @@ INF	Round604/a.cpp	/^const ll INF = 0x3f3f3f3f3f3f3f3f;$/;"	v	typeref:typename:c
 INF	Round604/b.cpp	/^const ll INF = 0x3f3f3f3f3f3f3f3f;$/;"	v	typeref:typename:const ll
 INF	Round604/c.cpp	/^const ll INF = 0x3f3f3f3f3f3f3f3f;$/;"	v	typeref:typename:const ll
 INF	Round604/d.cpp	/^const ll INF = 0x3f3f3f3f3f3f3f3f;$/;"	v	typeref:typename:const ll
+INF	Round605/a.cpp	/^const ll INF = 0x3f3f3f3f3f3f3f3f;$/;"	v	typeref:typename:const ll
+INF	Round605/b.cpp	/^const ll INF = 0x3f3f3f3f3f3f3f3f;$/;"	v	typeref:typename:const ll
+INF	Round605/c.cpp	/^const ll INF = 0x3f3f3f3f3f3f3f3f;$/;"	v	typeref:typename:const ll
+INF	Round605/d.cpp	/^const ll INF = 0x3f3f3f3f3f3f3f3f;$/;"	v	typeref:typename:const ll
 IO	Edu80/a.cpp	/^#define IO /;"	d	file:
 IO	Edu80/b.cpp	/^#define IO /;"	d	file:
 IO	Edu80/c.cpp	/^#define IO /;"	d	file:
@@ -25,6 +34,10 @@ IO	Round604/a.cpp	/^#define IO /;"	d	file:
 IO	Round604/b.cpp	/^#define IO /;"	d	file:
 IO	Round604/c.cpp	/^#define IO /;"	d	file:
 IO	Round604/d.cpp	/^#define IO /;"	d	file:
+IO	Round605/a.cpp	/^#define IO /;"	d	file:
+IO	Round605/b.cpp	/^#define IO /;"	d	file:
+IO	Round605/c.cpp	/^#define IO /;"	d	file:
+IO	Round605/d.cpp	/^#define IO /;"	d	file:
 P	Edu80/a.cpp	/^typedef pair<int, int> P;$/;"	t	typeref:typename:pair<int,int>	file:
 P	Edu80/b.cpp	/^typedef pair<int, int> P;$/;"	t	typeref:typename:pair<int,int>	file:
 P	Edu80/c.cpp	/^typedef pair<int, int> P;$/;"	t	typeref:typename:pair<int,int>	file:
@@ -32,6 +45,10 @@ P	Round604/a.cpp	/^typedef pair<int, int> P;$/;"	t	typeref:typename:pair<int,int
 P	Round604/b.cpp	/^typedef pair<int, int> P;$/;"	t	typeref:typename:pair<int,int>	file:
 P	Round604/c.cpp	/^typedef pair<int, int> P;$/;"	t	typeref:typename:pair<int,int>	file:
 P	Round604/d.cpp	/^typedef pair<int, int> P;$/;"	t	typeref:typename:pair<int,int>	file:
+P	Round605/a.cpp	/^typedef pair<int, int> P;$/;"	t	typeref:typename:pair<int,int>	file:
+P	Round605/b.cpp	/^typedef pair<int, int> P;$/;"	t	typeref:typename:pair<int,int>	file:
+P	Round605/c.cpp	/^typedef pair<int, int> P;$/;"	t	typeref:typename:pair<int,int>	file:
+P	Round605/d.cpp	/^typedef pair<int, int> P;$/;"	t	typeref:typename:pair<int,int>	file:
 PI	Edu80/a.cpp	/^const double PI = acos(-1);$/;"	v	typeref:typename:const double
 PI	Edu80/b.cpp	/^const double PI = acos(-1);$/;"	v	typeref:typename:const double
 PI	Edu80/c.cpp	/^const double PI = acos(-1);$/;"	v	typeref:typename:const double
@@ -39,13 +56,19 @@ PI	Round604/a.cpp	/^const double PI = acos(-1);$/;"	v	typeref:typename:const dou
 PI	Round604/b.cpp	/^const double PI = acos(-1);$/;"	v	typeref:typename:const double
 PI	Round604/c.cpp	/^const double PI = acos(-1);$/;"	v	typeref:typename:const double
 PI	Round604/d.cpp	/^const double PI = acos(-1);$/;"	v	typeref:typename:const double
+PI	Round605/a.cpp	/^const double PI = acos(-1);$/;"	v	typeref:typename:const double
+PI	Round605/b.cpp	/^const double PI = acos(-1);$/;"	v	typeref:typename:const double
+PI	Round605/c.cpp	/^const double PI = acos(-1);$/;"	v	typeref:typename:const double
+PI	Round605/d.cpp	/^const double PI = acos(-1);$/;"	v	typeref:typename:const double
 a	Round604/c.cpp	/^int a[maxn];$/;"	v	typeref:typename:int[]
 a	Round604/d.cpp	/^int a[4];$/;"	v	typeref:typename:int[4]
+a	Round605/d.cpp	/^int a[maxn];$/;"	v	typeref:typename:int[]
 ans	Round604/b.cpp	/^int ans[maxn];$/;"	v	typeref:typename:int[]
 ans	Round604/d.cpp	/^deque<int> ans;$/;"	v	typeref:typename:deque<int>
 codeforces sloved	README.md	/^### codeforces sloved$/;"	S
 d	Edu80/a.cpp	/^int n, d;$/;"	v	typeref:typename:int
 dp	Edu80/c.cpp	/^ll dp[25][1005];$/;"	v	typeref:typename:ll[25][1005]
+f	Round605/c.cpp	/^int f[30];$/;"	v	typeref:typename:int[30]
 inf	Edu80/a.cpp	/^const int inf = 0x3f3f3f3f;$/;"	v	typeref:typename:const int
 inf	Edu80/b.cpp	/^const int inf = 0x3f3f3f3f;$/;"	v	typeref:typename:const int
 inf	Edu80/c.cpp	/^const int inf = 0x3f3f3f3f;$/;"	v	typeref:typename:const int
@@ -53,6 +76,11 @@ inf	Round604/a.cpp	/^const int inf = 0x3f3f3f3f;$/;"	v	typeref:typename:const in
 inf	Round604/b.cpp	/^const int inf = 0x3f3f3f3f;$/;"	v	typeref:typename:const int
 inf	Round604/c.cpp	/^const int inf = 0x3f3f3f3f;$/;"	v	typeref:typename:const int
 inf	Round604/d.cpp	/^const int inf = 0x3f3f3f3f;$/;"	v	typeref:typename:const int
+inf	Round605/a.cpp	/^const int inf = 0x3f3f3f3f;$/;"	v	typeref:typename:const int
+inf	Round605/b.cpp	/^const int inf = 0x3f3f3f3f;$/;"	v	typeref:typename:const int
+inf	Round605/c.cpp	/^const int inf = 0x3f3f3f3f;$/;"	v	typeref:typename:const int
+inf	Round605/d.cpp	/^const int inf = 0x3f3f3f3f;$/;"	v	typeref:typename:const int
+l	Round605/d.cpp	/^int l[maxn], r[maxn];$/;"	v	typeref:typename:int[]
 ll	Edu80/a.cpp	/^typedef long long ll;$/;"	t	typeref:typename:long long	file:
 ll	Edu80/b.cpp	/^typedef long long ll;$/;"	t	typeref:typename:long long	file:
 ll	Edu80/c.cpp	/^typedef long long ll;$/;"	t	typeref:typename:long long	file:
@@ -60,6 +88,10 @@ ll	Round604/a.cpp	/^typedef long long ll;$/;"	t	typeref:typename:long long	file:
 ll	Round604/b.cpp	/^typedef long long ll;$/;"	t	typeref:typename:long long	file:
 ll	Round604/c.cpp	/^typedef long long ll;$/;"	t	typeref:typename:long long	file:
 ll	Round604/d.cpp	/^typedef long long ll;$/;"	t	typeref:typename:long long	file:
+ll	Round605/a.cpp	/^typedef long long ll;$/;"	t	typeref:typename:long long	file:
+ll	Round605/b.cpp	/^typedef long long ll;$/;"	t	typeref:typename:long long	file:
+ll	Round605/c.cpp	/^typedef long long ll;$/;"	t	typeref:typename:long long	file:
+ll	Round605/d.cpp	/^typedef long long ll;$/;"	t	typeref:typename:long long	file:
 main	Edu80/a.cpp	/^int main()$/;"	f	typeref:typename:int
 main	Edu80/b.cpp	/^int main()$/;"	f	typeref:typename:int
 main	Edu80/c.cpp	/^int main()$/;"	f	typeref:typename:int
@@ -67,6 +99,10 @@ main	Round604/a.cpp	/^int main()$/;"	f	typeref:typename:int
 main	Round604/b.cpp	/^int main()$/;"	f	typeref:typename:int
 main	Round604/c.cpp	/^int main()$/;"	f	typeref:typename:int
 main	Round604/d.cpp	/^int main()$/;"	f	typeref:typename:int
+main	Round605/a.cpp	/^int main()$/;"	f	typeref:typename:int
+main	Round605/b.cpp	/^int main()$/;"	f	typeref:typename:int
+main	Round605/c.cpp	/^int main()$/;"	f	typeref:typename:int
+main	Round605/d.cpp	/^int main()$/;"	f	typeref:typename:int
 maxn	Edu80/a.cpp	/^const int maxn = 1e5+5;$/;"	v	typeref:typename:const int
 maxn	Edu80/b.cpp	/^const int maxn = 1e5+5;$/;"	v	typeref:typename:const int
 maxn	Edu80/c.cpp	/^const int maxn = 1e5+5;$/;"	v	typeref:typename:const int
@@ -74,6 +110,10 @@ maxn	Round604/a.cpp	/^const int maxn = 1e5+5;$/;"	v	typeref:typename:const int
 maxn	Round604/b.cpp	/^const int maxn = 2e5+5;$/;"	v	typeref:typename:const int
 maxn	Round604/c.cpp	/^const int maxn = 4e5+5;$/;"	v	typeref:typename:const int
 maxn	Round604/d.cpp	/^const int maxn = 4e5+5;$/;"	v	typeref:typename:const int
+maxn	Round605/a.cpp	/^const int maxn = 4e5+5;$/;"	v	typeref:typename:const int
+maxn	Round605/b.cpp	/^const int maxn = 1e5+5;$/;"	v	typeref:typename:const int
+maxn	Round605/c.cpp	/^const int maxn = 2e5+5;$/;"	v	typeref:typename:const int
+maxn	Round605/d.cpp	/^const int maxn = 2e5+5;$/;"	v	typeref:typename:const int
 mod	Edu80/a.cpp	/^const int mod = 1e9+7;$/;"	v	typeref:typename:const int
 mod	Edu80/b.cpp	/^const int mod = 1e9+7;$/;"	v	typeref:typename:const int
 mod	Edu80/c.cpp	/^const int mod = 1e9+7;$/;"	v	typeref:typename:const int
@@ -81,12 +121,19 @@ mod	Round604/a.cpp	/^const int mod = 1e9+7;$/;"	v	typeref:typename:const int
 mod	Round604/b.cpp	/^const int mod = 1e9+7;$/;"	v	typeref:typename:const int
 mod	Round604/c.cpp	/^const int mod = 1e9+7;$/;"	v	typeref:typename:const int
 mod	Round604/d.cpp	/^const int mod = 1e9+7;$/;"	v	typeref:typename:const int
+mod	Round605/a.cpp	/^const int mod = 1e9+7;$/;"	v	typeref:typename:const int
+mod	Round605/b.cpp	/^const int mod = 1e9+7;$/;"	v	typeref:typename:const int
+mod	Round605/c.cpp	/^const int mod = 1e9+7;$/;"	v	typeref:typename:const int
+mod	Round605/d.cpp	/^const int mod = 1e9+7;$/;"	v	typeref:typename:const int
 n	Edu80/a.cpp	/^int n, d;$/;"	v	typeref:typename:int
 n	Round604/b.cpp	/^int n;$/;"	v	typeref:typename:int
 num	Round604/b.cpp	/^int num[maxn];$/;"	v	typeref:typename:int[]
 ok	Edu80/a.cpp	/^bool ok()$/;"	f	typeref:typename:bool
 pos	Round604/b.cpp	/^int pos[maxn];$/;"	v	typeref:typename:int[]
+r	Round605/d.cpp	/^int l[maxn], r[maxn];$/;"	v	typeref:typename:int[][]
 s	Round604/a.cpp	/^char s[maxn];$/;"	v	typeref:typename:char[]
+s	Round605/b.cpp	/^char s[maxn];$/;"	v	typeref:typename:char[]
+s	Round605/c.cpp	/^string s;$/;"	v	typeref:typename:string
 ull	Edu80/a.cpp	/^typedef unsigned long long ull;$/;"	t	typeref:typename:unsigned long long	file:
 ull	Edu80/b.cpp	/^typedef unsigned long long ull;$/;"	t	typeref:typename:unsigned long long	file:
 ull	Edu80/c.cpp	/^typedef unsigned long long ull;$/;"	t	typeref:typename:unsigned long long	file:
@@ -94,5 +141,11 @@ ull	Round604/a.cpp	/^typedef unsigned long long ull;$/;"	t	typeref:typename:unsi
 ull	Round604/b.cpp	/^typedef unsigned long long ull;$/;"	t	typeref:typename:unsigned long long	file:
 ull	Round604/c.cpp	/^typedef unsigned long long ull;$/;"	t	typeref:typename:unsigned long long	file:
 ull	Round604/d.cpp	/^typedef unsigned long long ull;$/;"	t	typeref:typename:unsigned long long	file:
+ull	Round605/a.cpp	/^typedef unsigned long long ull;$/;"	t	typeref:typename:unsigned long long	file:
+ull	Round605/b.cpp	/^typedef unsigned long long ull;$/;"	t	typeref:typename:unsigned long long	file:
+ull	Round605/c.cpp	/^typedef unsigned long long ull;$/;"	t	typeref:typename:unsigned long long	file:
+ull	Round605/d.cpp	/^typedef unsigned long long ull;$/;"	t	typeref:typename:unsigned long long	file:
+v	Round605/c.cpp	/^vector<int> v;$/;"	v	typeref:typename:vector<int>
 地址	Edu80/README.md	/^### 地址$/;"	S
 地址	Round604/README.md	/^### 地址$/;"	S
+地址	Round605/README.md	/^### 地址$/;"	S
