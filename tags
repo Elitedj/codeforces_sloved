@@ -5,6 +5,7 @@
 !_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
 !_TAG_PROGRAM_URL	https://ctags.io/	/official site/
 !_TAG_PROGRAM_VERSION	0.0.0	/45968ef/
+A	Edu78/README.md	/^### A$/;"	S
 A	Edu80/README.md	/^### A$/;"	S
 A	GlobalRound6/README.md	/^### A$/;"	S
 A	Round604/README.md	/^### A$/;"	S
@@ -14,6 +15,7 @@ A	Round607/README.md	/^### A$/;"	S
 A	Round608/README.md	/^### A$/;"	S
 A	Round614/README.md	/^### A$/;"	S
 A	Round615/README.md	/^### A$/;"	S
+B	Edu78/README.md	/^### B$/;"	S
 B	Edu80/README.md	/^### B$/;"	S
 B	Round604/README.md	/^### B$/;"	S
 B	Round605/README.md	/^### B$/;"	S
@@ -22,6 +24,7 @@ B	Round607/README.md	/^### B$/;"	S
 B	Round608/README.md	/^### B$/;"	S
 B	Round614/README.md	/^### B$/;"	S
 B	Round615/README.md	/^### B$/;"	S
+C	Edu78/README.md	/^### C$/;"	S
 C	Edu80/README.md	/^### C$/;"	S
 C	Round604/README.md	/^### C$/;"	S
 C	Round605/README.md	/^### C$/;"	S
@@ -35,6 +38,9 @@ D	Round605/README.md	/^### D$/;"	S
 D	Round606/README.md	/^### D$/;"	S
 D	Round615/README.md	/^### D$/;"	S
 E	Round615/README.md	/^### E$/;"	S
+INF	Edu78/a.cpp	/^const ll INF = 0x3f3f3f3f3f3f3f3f;$/;"	v	typeref:typename:const ll
+INF	Edu78/b.cpp	/^const ll INF = 0x3f3f3f3f3f3f3f3f;$/;"	v	typeref:typename:const ll
+INF	Edu78/c.cpp	/^const ll INF = 0x3f3f3f3f3f3f3f3f;$/;"	v	typeref:typename:const ll
 INF	Edu80/a.cpp	/^const ll INF = 0x3f3f3f3f3f3f3f3f;$/;"	v	typeref:typename:const ll
 INF	Edu80/b.cpp	/^const ll INF = 0x3f3f3f3f3f3f3f3f;$/;"	v	typeref:typename:const ll
 INF	Edu80/c.cpp	/^const ll INF = 0x3f3f3f3f3f3f3f3f;$/;"	v	typeref:typename:const ll
@@ -65,6 +71,9 @@ INF	Round615/b.cpp	/^const ll INF = 0x3f3f3f3f3f3f3f3f;$/;"	v	typeref:typename:c
 INF	Round615/c.cpp	/^const ll INF = 0x3f3f3f3f3f3f3f3f;$/;"	v	typeref:typename:const ll
 INF	Round615/d.cpp	/^const ll INF = 0x3f3f3f3f3f3f3f3f;$/;"	v	typeref:typename:const ll
 INF	Round615/e.cpp	/^const ll INF = 0x3f3f3f3f3f3f3f3f;$/;"	v	typeref:typename:const ll
+IO	Edu78/a.cpp	/^#define IO /;"	d	file:
+IO	Edu78/b.cpp	/^#define IO /;"	d	file:
+IO	Edu78/c.cpp	/^#define IO /;"	d	file:
 IO	Edu80/a.cpp	/^#define IO /;"	d	file:
 IO	Edu80/b.cpp	/^#define IO /;"	d	file:
 IO	Edu80/c.cpp	/^#define IO /;"	d	file:
@@ -95,6 +104,9 @@ IO	Round615/b.cpp	/^#define IO /;"	d	file:
 IO	Round615/c.cpp	/^#define IO /;"	d	file:
 IO	Round615/d.cpp	/^#define IO /;"	d	file:
 IO	Round615/e.cpp	/^#define IO /;"	d	file:
+P	Edu78/a.cpp	/^typedef pair<int, int> P;$/;"	t	typeref:typename:pair<int,int>	file:
+P	Edu78/b.cpp	/^typedef pair<int, int> P;$/;"	t	typeref:typename:pair<int,int>	file:
+P	Edu78/c.cpp	/^typedef pair<int, int> P;$/;"	t	typeref:typename:pair<int,int>	file:
 P	Edu80/a.cpp	/^typedef pair<int, int> P;$/;"	t	typeref:typename:pair<int,int>	file:
 P	Edu80/b.cpp	/^typedef pair<int, int> P;$/;"	t	typeref:typename:pair<int,int>	file:
 P	Edu80/c.cpp	/^typedef pair<int, int> P;$/;"	t	typeref:typename:pair<int,int>	file:
@@ -125,6 +137,9 @@ P	Round615/b.cpp	/^typedef pair<int, int> P;$/;"	t	typeref:typename:pair<int,int
 P	Round615/c.cpp	/^typedef pair<int, int> P;$/;"	t	typeref:typename:pair<int,int>	file:
 P	Round615/d.cpp	/^typedef pair<int, int> P;$/;"	t	typeref:typename:pair<int,int>	file:
 P	Round615/e.cpp	/^typedef pair<int, int> P;$/;"	t	typeref:typename:pair<int,int>	file:
+PI	Edu78/a.cpp	/^const double PI = acos(-1);$/;"	v	typeref:typename:const double
+PI	Edu78/b.cpp	/^const double PI = acos(-1);$/;"	v	typeref:typename:const double
+PI	Edu78/c.cpp	/^const double PI = acos(-1);$/;"	v	typeref:typename:const double
 PI	Edu80/a.cpp	/^const double PI = acos(-1);$/;"	v	typeref:typename:const double
 PI	Edu80/b.cpp	/^const double PI = acos(-1);$/;"	v	typeref:typename:const double
 PI	Edu80/c.cpp	/^const double PI = acos(-1);$/;"	v	typeref:typename:const double
@@ -155,6 +170,7 @@ PI	Round615/b.cpp	/^const double PI = acos(-1);$/;"	v	typeref:typename:const dou
 PI	Round615/c.cpp	/^const double PI = acos(-1);$/;"	v	typeref:typename:const double
 PI	Round615/d.cpp	/^const double PI = acos(-1);$/;"	v	typeref:typename:const double
 PI	Round615/e.cpp	/^const double PI = acos(-1);$/;"	v	typeref:typename:const double
+a	Edu78/c.cpp	/^int a[maxn], pos[maxn];$/;"	v	typeref:typename:int[]
 a	Round604/c.cpp	/^int a[maxn];$/;"	v	typeref:typename:int[]
 a	Round604/d.cpp	/^int a[4];$/;"	v	typeref:typename:int[4]
 a	Round605/d.cpp	/^int a[maxn];$/;"	v	typeref:typename:int[]
@@ -174,6 +190,9 @@ dy	Round608/c.cpp	/^int one, two, three, four, rx, lx, uy, dy;$/;"	v	typeref:typ
 f	Round605/c.cpp	/^int f[30];$/;"	v	typeref:typename:int[30]
 f	Round615/d.cpp	/^int f[maxn];$/;"	v	typeref:typename:int[]
 four	Round608/c.cpp	/^int one, two, three, four, rx, lx, uy, dy;$/;"	v	typeref:typename:int
+inf	Edu78/a.cpp	/^const int inf = 0x3f3f3f3f;$/;"	v	typeref:typename:const int
+inf	Edu78/b.cpp	/^const int inf = 0x3f3f3f3f;$/;"	v	typeref:typename:const int
+inf	Edu78/c.cpp	/^const int inf = 0x3f3f3f3f;$/;"	v	typeref:typename:const int
 inf	Edu80/a.cpp	/^const int inf = 0x3f3f3f3f;$/;"	v	typeref:typename:const int
 inf	Edu80/b.cpp	/^const int inf = 0x3f3f3f3f;$/;"	v	typeref:typename:const int
 inf	Edu80/c.cpp	/^const int inf = 0x3f3f3f3f;$/;"	v	typeref:typename:const int
@@ -205,6 +224,9 @@ inf	Round615/c.cpp	/^const int inf = 0x3f3f3f3f;$/;"	v	typeref:typename:const in
 inf	Round615/d.cpp	/^const int inf = 0x3f3f3f3f;$/;"	v	typeref:typename:const int
 inf	Round615/e.cpp	/^const int inf = 0x3f3f3f3f;$/;"	v	typeref:typename:const int
 l	Round605/d.cpp	/^int l[maxn], r[maxn];$/;"	v	typeref:typename:int[]
+ll	Edu78/a.cpp	/^typedef long long ll;$/;"	t	typeref:typename:long long	file:
+ll	Edu78/b.cpp	/^typedef long long ll;$/;"	t	typeref:typename:long long	file:
+ll	Edu78/c.cpp	/^typedef long long ll;$/;"	t	typeref:typename:long long	file:
 ll	Edu80/a.cpp	/^typedef long long ll;$/;"	t	typeref:typename:long long	file:
 ll	Edu80/b.cpp	/^typedef long long ll;$/;"	t	typeref:typename:long long	file:
 ll	Edu80/c.cpp	/^typedef long long ll;$/;"	t	typeref:typename:long long	file:
@@ -239,6 +261,9 @@ lx	Round608/c.cpp	/^int one, two, three, four, rx, lx, uy, dy;$/;"	v	typeref:typ
 m	Round615/e.cpp	/^int n, m;$/;"	v	typeref:typename:int
 m1	Round606/d.cpp	/^map<string, int> m1, m2;$/;"	v	typeref:typename:map<string,int>
 m2	Round606/d.cpp	/^map<string, int> m1, m2;$/;"	v	typeref:typename:map<string,int>
+main	Edu78/a.cpp	/^int main()$/;"	f	typeref:typename:int
+main	Edu78/b.cpp	/^int main()$/;"	f	typeref:typename:int
+main	Edu78/c.cpp	/^int main()$/;"	f	typeref:typename:int
 main	Edu80/a.cpp	/^int main()$/;"	f	typeref:typename:int
 main	Edu80/b.cpp	/^int main()$/;"	f	typeref:typename:int
 main	Edu80/c.cpp	/^int main()$/;"	f	typeref:typename:int
@@ -269,6 +294,9 @@ main	Round615/b.cpp	/^int main()$/;"	f	typeref:typename:int
 main	Round615/c.cpp	/^int main()$/;"	f	typeref:typename:int
 main	Round615/d.cpp	/^int main()$/;"	f	typeref:typename:int
 main	Round615/e.cpp	/^int main()$/;"	f	typeref:typename:int
+maxn	Edu78/a.cpp	/^const int maxn = 4e5+5;$/;"	v	typeref:typename:const int
+maxn	Edu78/b.cpp	/^const int maxn = 4e5+5;$/;"	v	typeref:typename:const int
+maxn	Edu78/c.cpp	/^const int maxn = 2e5+5;$/;"	v	typeref:typename:const int
 maxn	Edu80/a.cpp	/^const int maxn = 1e5+5;$/;"	v	typeref:typename:const int
 maxn	Edu80/b.cpp	/^const int maxn = 1e5+5;$/;"	v	typeref:typename:const int
 maxn	Edu80/c.cpp	/^const int maxn = 1e5+5;$/;"	v	typeref:typename:const int
@@ -299,6 +327,9 @@ maxn	Round615/b.cpp	/^const int maxn = 2e5+5;$/;"	v	typeref:typename:const int
 maxn	Round615/c.cpp	/^const int maxn = 2e5+5;$/;"	v	typeref:typename:const int
 maxn	Round615/d.cpp	/^const int maxn = 4e5+5;$/;"	v	typeref:typename:const int
 maxn	Round615/e.cpp	/^const int maxn = 4e5+5;$/;"	v	typeref:typename:const int
+mod	Edu78/a.cpp	/^const int mod = 1e9+7;$/;"	v	typeref:typename:const int
+mod	Edu78/b.cpp	/^const int mod = 1e9+7;$/;"	v	typeref:typename:const int
+mod	Edu78/c.cpp	/^const int mod = 1e9+7;$/;"	v	typeref:typename:const int
 mod	Edu80/a.cpp	/^const int mod = 1e9+7;$/;"	v	typeref:typename:const int
 mod	Edu80/b.cpp	/^const int mod = 1e9+7;$/;"	v	typeref:typename:const int
 mod	Edu80/c.cpp	/^const int mod = 1e9+7;$/;"	v	typeref:typename:const int
@@ -343,6 +374,7 @@ num	Round604/b.cpp	/^int num[maxn];$/;"	v	typeref:typename:int[]
 o	Round606/c.cpp	/^set<int> t, o;$/;"	v	typeref:typename:set<int>
 ok	Edu80/a.cpp	/^bool ok()$/;"	f	typeref:typename:bool
 one	Round608/c.cpp	/^int one, two, three, four, rx, lx, uy, dy;$/;"	v	typeref:typename:int
+pos	Edu78/c.cpp	/^int a[maxn], pos[maxn];$/;"	v	typeref:typename:int[][]
 pos	Round604/b.cpp	/^int pos[maxn];$/;"	v	typeref:typename:int[]
 q	Round615/d.cpp	/^int q, x;$/;"	v	typeref:typename:int
 r	Round605/d.cpp	/^int l[maxn], r[maxn];$/;"	v	typeref:typename:int[][]
@@ -360,6 +392,9 @@ sy	Round608/c.cpp	/^int sx, sy;$/;"	v	typeref:typename:int
 t	Round606/c.cpp	/^set<int> t, o;$/;"	v	typeref:typename:set<int>
 three	Round608/c.cpp	/^int one, two, three, four, rx, lx, uy, dy;$/;"	v	typeref:typename:int
 two	Round608/c.cpp	/^int one, two, three, four, rx, lx, uy, dy;$/;"	v	typeref:typename:int
+ull	Edu78/a.cpp	/^typedef unsigned long long ull;$/;"	t	typeref:typename:unsigned long long	file:
+ull	Edu78/b.cpp	/^typedef unsigned long long ull;$/;"	t	typeref:typename:unsigned long long	file:
+ull	Edu78/c.cpp	/^typedef unsigned long long ull;$/;"	t	typeref:typename:unsigned long long	file:
 ull	Edu80/a.cpp	/^typedef unsigned long long ull;$/;"	t	typeref:typename:unsigned long long	file:
 ull	Edu80/b.cpp	/^typedef unsigned long long ull;$/;"	t	typeref:typename:unsigned long long	file:
 ull	Edu80/c.cpp	/^typedef unsigned long long ull;$/;"	t	typeref:typename:unsigned long long	file:
@@ -395,6 +430,7 @@ v	Round605/c.cpp	/^vector<int> v;$/;"	v	typeref:typename:vector<int>
 x	Round615/b.cpp	/^    int x, y;$/;"	m	struct:node	typeref:typename:int	file:
 x	Round615/d.cpp	/^int q, x;$/;"	v	typeref:typename:int
 y	Round615/b.cpp	/^    int x, y;$/;"	m	struct:node	typeref:typename:int	file:
+地址	Edu78/README.md	/^### 地址$/;"	S
 地址	Edu80/README.md	/^### 地址$/;"	S
 地址	GlobalRound6/README.md	/^### 地址$/;"	S
 地址	Round604/README.md	/^### 地址$/;"	S
