@@ -22,3 +22,13 @@
 
 ### Forbidden Zero
 暴力找后面的数，且数字不包含0即可
+
+### Unloaded Die
+若当前期望为3.5则不需要改变骰子的数字  
+否则挑一个概率最大的面去改变
+
+### Purple Rain
+连续子区间最大和
+
+### Fear Factoring
+除法分块板子题
