@@ -32,3 +32,23 @@
 
 ### Fear Factoring
 除法分块板子题
+
+### Straight Shot
+将robot的速度拆分成Vx和Vy  
+若robot想从(0, 0)到达(x, 0)  
+robot在y轴方向上的移动距离和moving sidewalk的移动距离相同  
+即(r1-l1)/Vx\*v1 + (r2-l2)/Vx\*v2 + ... + (rn-ln)/Vx\*vn == Vy\*x/Vx  
+把Vx消掉，可以求出Vy  
+若Vy >= V，则Too hard，因为这样水平方向没速度  
+若x/Vx >= 2.0\*x/v则也是Too hard
+
+### Grid Coloring
+can[i][j]表示grid[i][j]能否不受现有颜色的影响涂B颜色  
+dp[i][j]表示第i行前j个都是B其余都是R的方案数  
+dp[i][j] = sum(dp[i-1][k] k in [j, m])  
+因为第i行的前j个涂B的话，则只有上一行的前j...m个涂B的方案数才满足条件
+
+### Security Badge
+每一条边都有一个权值区间，只有当前id在这个区间内才可以走这条边，问有多少个id能从s到达t  
+我们对每个边的权值区间改为左闭右开，即[l, r]变为[l, r+1)  
+然后对端点值离散化后暴力dfs  
