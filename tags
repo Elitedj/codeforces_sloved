@@ -32,6 +32,7 @@ A	Round619/README.md	/^### A$/;"	S
 A	Round620/README.md	/^### A$/;"	S
 A	Round621/README.md	/^### A$/;"	S
 A	Round624/README.md	/^### A$/;"	S
+A	Round625/README.md	/^### A$/;"	S
 B	Edu78/README.md	/^### B$/;"	S
 B	Edu79/README.md	/^### B$/;"	S
 B	Edu80/README.md	/^### B$/;"	S
@@ -58,6 +59,7 @@ B	Round619/README.md	/^### B$/;"	S
 B	Round620/README.md	/^### B$/;"	S
 B	Round621/README.md	/^### B$/;"	S
 B	Round624/README.md	/^### B$/;"	S
+B	Round625/README.md	/^### B$/;"	S
 C	Edu78/README.md	/^### C$/;"	S
 C	Edu79/README.md	/^### C$/;"	S
 C	Edu80/README.md	/^### C$/;"	S
@@ -84,6 +86,7 @@ C	Round619/README.md	/^### C$/;"	S
 C	Round620/README.md	/^### C$/;"	S
 C	Round621/README.md	/^### C$/;"	S
 C	Round624/README.md	/^### C$/;"	S
+C	Round625/README.md	/^### C$/;"	S
 D	Edu81/README.md	/^### D$/;"	S
 D	Edu82/README.md	/^### D$/;"	S
 D	Round604/README.md	/^### D$/;"	S
@@ -109,6 +112,9 @@ DEBUG	Round624/a.cpp	/^#define DEBUG(/;"	d	file:
 DEBUG	Round624/b.cpp	/^#define DEBUG(/;"	d	file:
 DEBUG	Round624/c.cpp	/^#define DEBUG(/;"	d	file:
 DEBUG	Round624/d.cpp	/^#define DEBUG(/;"	d	file:
+DEBUG	Round625/a.cpp	/^#define DEBUG(/;"	d	file:
+DEBUG	Round625/b.cpp	/^#define DEBUG(/;"	d	file:
+DEBUG	Round625/c.cpp	/^#define DEBUG(/;"	d	file:
 Delayed Work	gym101652/README.md	/^### Delayed Work$/;"	S
 E	Round611/README.md	/^### E$/;"	S
 E	Round615/README.md	/^### E$/;"	S
@@ -197,6 +203,9 @@ INF	Round624/a.cpp	/^#define INF /;"	d	file:
 INF	Round624/b.cpp	/^#define INF /;"	d	file:
 INF	Round624/c.cpp	/^#define INF /;"	d	file:
 INF	Round624/d.cpp	/^#define INF /;"	d	file:
+INF	Round625/a.cpp	/^const ll INF = 0x3f3f3f3f3f3f3f3f;$/;"	v	typeref:typename:const ll
+INF	Round625/b.cpp	/^const ll INF = 0x3f3f3f3f3f3f3f3f;$/;"	v	typeref:typename:const ll
+INF	Round625/c.cpp	/^const ll INF = 0x3f3f3f3f3f3f3f3f;$/;"	v	typeref:typename:const ll
 INF	gym101652/DelayedWork_v1.cpp	/^#define INF /;"	d	file:
 INF	gym101652/DelayedWork_v2.cpp	/^#define INF /;"	d	file:
 INF	gym101652/FearFactoring.cpp	/^#define INF /;"	d	file:
@@ -299,6 +308,9 @@ IO	Round624/a.cpp	/^#define IO /;"	d	file:
 IO	Round624/b.cpp	/^#define IO /;"	d	file:
 IO	Round624/c.cpp	/^#define IO /;"	d	file:
 IO	Round624/d.cpp	/^#define IO /;"	d	file:
+IO	Round625/a.cpp	/^#define IO /;"	d	file:
+IO	Round625/b.cpp	/^#define IO /;"	d	file:
+IO	Round625/c.cpp	/^#define IO /;"	d	file:
 IO	gym101652/DelayedWork_v1.cpp	/^#define IO /;"	d	file:
 IO	gym101652/DelayedWork_v2.cpp	/^#define IO /;"	d	file:
 IO	gym101652/FearFactoring.cpp	/^#define IO /;"	d	file:
@@ -416,6 +428,9 @@ P	Round624/a.cpp	/^typedef pair<int, int> P;$/;"	t	typeref:typename:pair<int,int
 P	Round624/b.cpp	/^typedef pair<int, int> P;$/;"	t	typeref:typename:pair<int,int>	file:
 P	Round624/c.cpp	/^typedef pair<int, int> P;$/;"	t	typeref:typename:pair<int,int>	file:
 P	Round624/d.cpp	/^typedef pair<int, int> P;$/;"	t	typeref:typename:pair<int,int>	file:
+P	Round625/a.cpp	/^typedef pair<int, int> P;$/;"	t	typeref:typename:pair<int,int>	file:
+P	Round625/b.cpp	/^typedef pair<int, int> P;$/;"	t	typeref:typename:pair<int,int>	file:
+P	Round625/c.cpp	/^typedef pair<int, int> P;$/;"	t	typeref:typename:pair<int,int>	file:
 P	gym101652/DelayedWork_v1.cpp	/^typedef pair<int, int> P;$/;"	t	typeref:typename:pair<int,int>	file:
 P	gym101652/DelayedWork_v2.cpp	/^typedef pair<int, int> P;$/;"	t	typeref:typename:pair<int,int>	file:
 P	gym101652/FearFactoring.cpp	/^typedef pair<int, int> P;$/;"	t	typeref:typename:pair<int,int>	file:
@@ -466,6 +481,9 @@ PI	Round615/e.cpp	/^const double PI = acos(-1);$/;"	v	typeref:typename:const dou
 PI	Round622/a.cpp	/^const double PI = acos(-1);$/;"	v	typeref:typename:const double
 PI	Round622/b.cpp	/^const double PI = acos(-1);$/;"	v	typeref:typename:const double
 PI	Round622/c.cpp	/^const double PI = acos(-1);$/;"	v	typeref:typename:const double
+PI	Round625/a.cpp	/^const double PI = acos(-1);$/;"	v	typeref:typename:const double
+PI	Round625/b.cpp	/^const double PI = acos(-1);$/;"	v	typeref:typename:const double
+PI	Round625/c.cpp	/^const double PI = acos(-1);$/;"	v	typeref:typename:const double
 Purple Rain	gym101652/README.md	/^### Purple Rain$/;"	S
 Security Badge	gym101652/README.md	/^### Security Badge$/;"	S
 Star Arrangements	gym101652/README.md	/^### Star Arrangements$/;"	S
@@ -504,6 +522,8 @@ a	Round621/a.cpp	/^int a[150];$/;"	v	typeref:typename:int[150]
 a	Round622/c.cpp	/^int a[maxn];$/;"	v	typeref:typename:int[]
 a	Round624/b.cpp	/^int a[200], f[200];$/;"	v	typeref:typename:int[200]
 a	Round624/c.cpp	/^int a[30][maxn];$/;"	v	typeref:typename:int[30][]
+a	Round625/a.cpp	/^int a[200], b[200];$/;"	v	typeref:typename:int[200]
+a	Round625/b.cpp	/^int a[200], b[200];$/;"	v	typeref:typename:int[200]
 a	gym101652/UnloadedDie.cpp	/^double a[10];$/;"	v	typeref:typename:double[10]
 addnum	GoodBye2019/c_v1.cpp	/^vector<ll> addnum;$/;"	v	typeref:typename:vector<ll>
 ans	Round604/b.cpp	/^int ans[maxn];$/;"	v	typeref:typename:int[]
@@ -520,6 +540,8 @@ b	Round609/d.cpp	/^ll b, w;$/;"	v	typeref:typename:ll
 b	Round614/c.cpp	/^int a[maxn], b[maxn];$/;"	v	typeref:typename:int[][]
 b	Round617/d.cpp	/^ll n, a, b, k;$/;"	v	typeref:typename:ll
 b	Round622/c.cpp	/^int b[maxn];$/;"	v	typeref:typename:int[]
+b	Round625/a.cpp	/^int a[200], b[200];$/;"	v	typeref:typename:int[200][200]
+b	Round625/b.cpp	/^int a[200], b[200];$/;"	v	typeref:typename:int[200][200]
 bounds	gym101652/SecurityBadge.cpp	/^vector<int> bounds;$/;"	v	typeref:typename:vector<int>
 build	Round622/c.cpp	/^void build(int p, int l, int r)$/;"	f	typeref:typename:void
 c	Round609/b.cpp	/^int a[maxn], b[maxn], c[maxn];$/;"	v	typeref:typename:int[][][]
@@ -692,6 +714,9 @@ inf	Round624/a.cpp	/^#define inf /;"	d	file:
 inf	Round624/b.cpp	/^#define inf /;"	d	file:
 inf	Round624/c.cpp	/^#define inf /;"	d	file:
 inf	Round624/d.cpp	/^#define inf /;"	d	file:
+inf	Round625/a.cpp	/^const int inf = 0x3f3f3f3f;$/;"	v	typeref:typename:const int
+inf	Round625/b.cpp	/^const int inf = 0x3f3f3f3f;$/;"	v	typeref:typename:const int
+inf	Round625/c.cpp	/^const int inf = 0x3f3f3f3f;$/;"	v	typeref:typename:const int
 inf	gym101652/DelayedWork_v1.cpp	/^#define inf /;"	d	file:
 inf	gym101652/DelayedWork_v2.cpp	/^#define inf /;"	d	file:
 inf	gym101652/FearFactoring.cpp	/^#define inf /;"	d	file:
@@ -816,6 +841,9 @@ ll	Round624/a.cpp	/^typedef long long ll;$/;"	t	typeref:typename:long long	file:
 ll	Round624/b.cpp	/^typedef long long ll;$/;"	t	typeref:typename:long long	file:
 ll	Round624/c.cpp	/^typedef long long ll;$/;"	t	typeref:typename:long long	file:
 ll	Round624/d.cpp	/^typedef long long ll;$/;"	t	typeref:typename:long long	file:
+ll	Round625/a.cpp	/^typedef long long ll;$/;"	t	typeref:typename:long long	file:
+ll	Round625/b.cpp	/^typedef long long ll;$/;"	t	typeref:typename:long long	file:
+ll	Round625/c.cpp	/^typedef long long ll;$/;"	t	typeref:typename:long long	file:
 ll	gym101652/DelayedWork_v1.cpp	/^typedef long long ll;$/;"	t	typeref:typename:long long	file:
 ll	gym101652/DelayedWork_v2.cpp	/^typedef long long ll;$/;"	t	typeref:typename:long long	file:
 ll	gym101652/FearFactoring.cpp	/^typedef long long ll;$/;"	t	typeref:typename:long long	file:
@@ -942,6 +970,9 @@ main	Round624/a.cpp	/^int main()$/;"	f	typeref:typename:int
 main	Round624/b.cpp	/^int main()$/;"	f	typeref:typename:int
 main	Round624/c.cpp	/^int main()$/;"	f	typeref:typename:int
 main	Round624/d.cpp	/^int main()$/;"	f	typeref:typename:int
+main	Round625/a.cpp	/^int main()$/;"	f	typeref:typename:int
+main	Round625/b.cpp	/^int main()$/;"	f	typeref:typename:int
+main	Round625/c.cpp	/^int main()$/;"	f	typeref:typename:int
 main	gym101652/DelayedWork_v1.cpp	/^int main()$/;"	f	typeref:typename:int
 main	gym101652/DelayedWork_v2.cpp	/^int main()$/;"	f	typeref:typename:int
 main	gym101652/FearFactoring.cpp	/^int main()$/;"	f	typeref:typename:int
@@ -1057,6 +1088,9 @@ maxn	Round624/a.cpp	/^const int maxn = 1e6+5;$/;"	v	typeref:typename:const int
 maxn	Round624/b.cpp	/^const int maxn = 2e5+5;$/;"	v	typeref:typename:const int
 maxn	Round624/c.cpp	/^const int maxn = 2e5+5;$/;"	v	typeref:typename:const int
 maxn	Round624/d.cpp	/^const int maxn = 2e4+5;$/;"	v	typeref:typename:const int
+maxn	Round625/a.cpp	/^const int maxn = 1e5+5;$/;"	v	typeref:typename:const int
+maxn	Round625/b.cpp	/^const int maxn = 1e5+5;$/;"	v	typeref:typename:const int
+maxn	Round625/c.cpp	/^const int maxn = 2e5+5;$/;"	v	typeref:typename:const int
 maxn	gym101652/DelayedWork_v1.cpp	/^const int maxn = 2e5+5;$/;"	v	typeref:typename:const int
 maxn	gym101652/DelayedWork_v2.cpp	/^const int maxn = 2e5+5;$/;"	v	typeref:typename:const int
 maxn	gym101652/FearFactoring.cpp	/^const int maxn = 2e5+5;$/;"	v	typeref:typename:const int
@@ -1172,6 +1206,9 @@ mod	Round624/a.cpp	/^const ll mod = 1e9+7;$/;"	v	typeref:typename:const ll
 mod	Round624/b.cpp	/^const ll mod = 1e9+7;$/;"	v	typeref:typename:const ll
 mod	Round624/c.cpp	/^const ll mod = 1e9+7;$/;"	v	typeref:typename:const ll
 mod	Round624/d.cpp	/^const ll mod = 1e9+7;$/;"	v	typeref:typename:const ll
+mod	Round625/a.cpp	/^const int mod = 1e9+7;$/;"	v	typeref:typename:const int
+mod	Round625/b.cpp	/^const int mod = 1e9+7;$/;"	v	typeref:typename:const int
+mod	Round625/c.cpp	/^const int mod = 1e9+7;$/;"	v	typeref:typename:const int
 mod	gym101652/DelayedWork_v1.cpp	/^const ll mod = 1e9+7;$/;"	v	typeref:typename:const ll
 mod	gym101652/DelayedWork_v2.cpp	/^const ll mod = 1e9+7;$/;"	v	typeref:typename:const ll
 mod	gym101652/FearFactoring.cpp	/^const ll mod = 1e9+7;$/;"	v	typeref:typename:const ll
@@ -1330,6 +1367,9 @@ ull	Round624/a.cpp	/^typedef unsigned long long ull;$/;"	t	typeref:typename:unsi
 ull	Round624/b.cpp	/^typedef unsigned long long ull;$/;"	t	typeref:typename:unsigned long long	file:
 ull	Round624/c.cpp	/^typedef unsigned long long ull;$/;"	t	typeref:typename:unsigned long long	file:
 ull	Round624/d.cpp	/^typedef unsigned long long ull;$/;"	t	typeref:typename:unsigned long long	file:
+ull	Round625/a.cpp	/^typedef unsigned long long ull;$/;"	t	typeref:typename:unsigned long long	file:
+ull	Round625/b.cpp	/^typedef unsigned long long ull;$/;"	t	typeref:typename:unsigned long long	file:
+ull	Round625/c.cpp	/^typedef unsigned long long ull;$/;"	t	typeref:typename:unsigned long long	file:
 ull	gym101652/DelayedWork_v1.cpp	/^typedef unsigned long long ull;$/;"	t	typeref:typename:unsigned long long	file:
 ull	gym101652/DelayedWork_v2.cpp	/^typedef unsigned long long ull;$/;"	t	typeref:typename:unsigned long long	file:
 ull	gym101652/FearFactoring.cpp	/^typedef unsigned long long ull;$/;"	t	typeref:typename:unsigned long long	file:
@@ -1390,5 +1430,6 @@ y	Round618/d.cpp	/^ll x[maxn], y[maxn];$/;"	v	typeref:typename:ll[][]
 地址	Round621/README.md	/^### 地址$/;"	S
 地址	Round622/README.md	/^### 地址$/;"	S
 地址	Round624/README.md	/^### 地址$/;"	S
+地址	Round625/README.md	/^### 地址$/;"	S
 地址	gym101652/README.md	/^### 地址$/;"	S
 题解	Round622/README.md	/^### 题解$/;"	S
